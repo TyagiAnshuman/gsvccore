@@ -33,6 +33,7 @@ int a:
 local_function2{
 char cd:
 varchar data:
-
+loop(i=0; i<=100; i++)
+       {int1= int1+int2}
 
 }

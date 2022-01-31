@@ -14,6 +14,7 @@ b{int a}
 
 new function added
 c{char(char j}
+# <<<<<<< Updated upstream
        
 remote  function:
        { 
@@ -21,3 +22,10 @@ remote  function:
  int j:
    }
        
+=======
+
+local function
+{
+int a:
+}
+# >>>>>>> Stashed changes

@@ -14,3 +14,10 @@ b{int a}
 
 new function added
 c{char(char j}
+       
+remote  function:
+       { 
+ int e:
+ int j:
+   }
+       

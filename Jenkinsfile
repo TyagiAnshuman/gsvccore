@@ -29,3 +29,10 @@ local function
 int a:
 }
 # >>>>>>> Stashed changes
+
+local_function2{
+char cd:
+varchar data:
+
+
+}

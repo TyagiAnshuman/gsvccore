@@ -11,3 +11,6 @@ a int:
 new function add
 b{int a}
 #
+
+new function added
+c{char(char j}
